@@ -1,4 +1,3 @@
-<script>
     // Mouseover effects for star detail in the hero section
     document.addEventListener('DOMContentLoaded', function() {
         var starDetail = document.querySelector('.star-detail');
@@ -149,4 +148,3 @@
     function updatePage() {
         window.location = nextPageLink;
     }
-</script>
